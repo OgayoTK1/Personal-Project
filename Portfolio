@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ogayo Andrew Ater - Personal Web Page</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f3f4f6;
+            color: #1f2937;
+        }
+        header {
+            background: linear-gradient(90deg, #4CAF50, #2ecc71);
+            color: white;
+            padding: 2rem 0;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+        header p {
+            font-size: 1.2rem;
+            margin: 0.5rem 0;
+        }
+        nav {
+            text-align: center;
+            padding: 1rem 0;
+            background: #ffffff;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+            margin-bottom: 2rem;
+        }
+        nav a {
+            text-decoration: none;
+            color: #4CAF50;
+            margin: 0 1.5rem;
+            font-size: 1rem;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #2ecc71;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 1.5rem;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 1s ease-in-out;
+        }
+        section {
+            margin-bottom: 2.5rem;
+        }
+        section h2 {
+            color: #4CAF50;
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            border-bottom: 2px solid #2ecc71;
+            display: inline-block;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background: #f9fafb;
+            padding: 1rem;
+            margin: 0.5rem 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+        ul li:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 1.5rem 0;
+            background: #1f2937;
+            color: white;
+            margin-top: 2rem;
+        }
+        footer p {
+            margin: 0;
+        }
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ogayo Andrew Ater</h1>
+        <p>Software Engineering Student | Aspiring DevOps Engineer</p>
+        <p>African Leadership University</p> 
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+        <a href="#Intrest">Interest</a>
+    </nav>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! My name is Ogayo Andrew Ater.Software engineering student passionate about technology and problem-solving. I enjoy learning about Python, JavaScript, and graphic design, and I'm currently exploring DevOps and infrastructure management.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Projects</h2>
+            <ul>
+                <li><strong>Library Catalog System:</strong> A Python-based project utilizing OOP concepts to manage a library's inventory efficiently.</li>
+                <li><strong>University GPA Tracker:</strong> A Python application to calculate and track overall GPA and module grades.</li>
+                <li><strong>Hospital Optimization Scripts:</strong> Shell scripts for managing heart rate data and secure log backups.</li>
+            </ul>
+        </section>
+
+        <section id="Intrest">
+          <h2>Interest</h2>
+          <p>I am deeply interested in technology, particularly in Python and JavaScript. I enjoy exploring how software can solve real-world problems. Beyond tech, I love hiking and swimming. I’m also passionate about learning new skills, like mastering DevOps practices and infrastructure management. My biggest dream is to become a world-class software engineer and create impactful solutions for real-world problems.</p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>If you'd like to connect, feel free to reach out!</p>
+            <ul>
+                <li>Email: <a href="mailto:a.ogayo@alustudent.com">a.ogayo@alustudent.com</a></li>
+                <li>GitHub: <a href="https://github.com/OgayoTK1" target="_blank">github.com/OgayoTK1</a></li>
+                <li>LinkedIn: <a href="https://linkedin.com/in/ogayoater" target="_blank">linkedin.com/in/ogayoater</a></li>
+                <li>Phone: +254718780039</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Ogayo Andrew Ater. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
