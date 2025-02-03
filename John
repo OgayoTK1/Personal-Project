@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Earn in Statehela Agencies</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1a1a2e;
+            margin: 0;
+            padding: 20px;
+            color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #16213e;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
+        }
+        h1, h2, h3 {
+            color: #ffcc00;
+        }
+        .flag {
+            font-size: 24px;
+        }
+        ul {
+            text-align: left;
+            padding: 0;
+            list-style: none;
+        }
+        li {
+            background: #e94560;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+            color: white;
+        }
+        .cta {
+            background: #0f3460;
+            color: white;
+            padding: 10px 20px;
+            display: inline-block;
+            margin-top: 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .cta:hover {
+            background: #e94560;
+        }
+        .image {
+            margin: 20px 0;
+        }
+        .image img {
+            max-width: 100%;
+            border-radius: 10px;
+        }
+        .logo {
+            margin: 20px 0;
+        }
+        .logo img {
+            max-width: 150px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <img src="/mnt/data/WhatsApp Image 2025-02-03 at 18.14.38_3feda77f.jpg" alt="Statehela Agencies Logo">
+        </div>
+
+        <h1>HOW TO EARN IN STATEHELA AGENCIES <span class="flag">🇰🇪🇰🇪</span></h1>
+        <p>Welcome to Statehela, the gateway to earning money online while enjoying the flexibility of working from anywhere!</p>
+
+        <div class="image">
+            <img src="/mnt/data/WhatsApp Image 2025-02-03 at 18.14.35_0fa09d23.jpg" alt="TikTok Videos">
+        </div>
+
+        <h2>Ways to Earn:</h2>
+        <ul>
+            <li>🔖 WELCOME BONUS - Receive KSH 300 upon joining.</li>
+            <li>🔖 Watching YouTube & TikTok videos.</li>
+            <div class="image">
+                <img src="/mtn/dataWhatsApp Image 2025-02-03 at 18.14.37_6f3a6c85.jpg" alt="YouTube Videos">
+            </div>
+            <li>🔖 Playing games (Chess & Draughts).</li>
+            <div class="image">
+                <img src="/mnt/data/WhatsApp Image 2025-02-03 at 18.14.37_bf302dc6.jpg" alt="Gaming">
+            </div>
+            <li>🔖 Clicking ads.</li>
+            <li>🔖 Answering simple trivia questions.</li>
+            <div class="image">
+                <img src="/mnt/data/WhatsApp Image 2025-02-03 at 18.14.36_45bf0981.jpg" alt="Trivia Questions">
+            </div>
+            <li>🔖 Spinning.</li>
+            <li>🔖 AFFILIATE PROGRAM: Earn commissions for sharing your link.</li>
+        </ul>
+
+        <h3>Affiliate Program:</h3>
+        <p>Level 1 - KSH 300 | Level 2 - KSH 150 | Level 3 - KSH 50</p>
+
+        <h2>Additional Benefits:</h2>
+        <ul>
+            <li>✅ Weekly agent bonus.</li>
+            <li>✅ Automatic activations.</li>
+            <li>✅ Instant withdrawals.</li>
+            <li>✅ Free forex classes.</li>
+            <div class="image">
+                <img src="/mnt/data/WhatsApp Image 2025-02-03 at 18.14.36_f012565d.jpg" alt="Forex Trading">
+            </div>
+            <li>✅ 24/7 customer service.</li>
+        </ul>
+
+        <h3>Activation Fee: KSH 550</h3>
+        <p>If interested, TYPE LINK.</p>
+
+        <div class="logo">
+            <img src="/mnt/data/WhatsApp Image 2025-02-03 at 18.14.38_4e03d396.jpg" alt="Alternate Statehela Logo">
+        </div>
+
+        <p>☢ LET’S GET STARTED ☢</p>
+        <p>Email: <a href="mailto:crufixcrouse6@gmail.com">crufixcrouse6@gmail.com</a></p>
+        <p>Phone: +254 797 804 299</p>
+        <p>Website: STATEHELA AGENCIES</p>
+
+        <a href="#" class="cta">Join Now</a>
+    </div>
+</body>
+</html>
+
